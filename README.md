@@ -1,2 +1,2 @@
 # Django-enviroment
-Pushing django 
+Pushing django virtual environment to github repos 
